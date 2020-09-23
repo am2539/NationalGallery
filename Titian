@@ -9,774 +9,691 @@
 	"description": "\nTitian was the greatest painter of 16th-century Venice, and the first painter to have a mainly international clientele. During his long career, he experimented with many different styles of painting which embody the development of art during his epoch.\nYouth and debut\nTitian (Tiziano Vecellio) was born in Pieve di Cadore, a small town at the foot of the Dolomites on the Venetian side of the Alps. The Vecellios had been based in Cadore since the 14th century. Titian's father, Gregorio, was a military man. His older brother Francesco was also a painter. There is still no documentary evidence of Titian's exact date of birth, but contemporary sources and his early stylistic development suggest that he was born around 1490.\nWhen he was about 10 years old, Titian arrived in Venice, then one of the wealthiest and most cosmopolitan cities in the world.\nTitian started his artistic training in the workshop of the mosaicist Sebastiano Zuccato. He later briefly joined Gentile Bellini's workshop. After Gentile's death in 1507, Titian joined the workshop of Gentile's brother, Giovanni Bellini, which at that time was the most important in Venice.\nHowever, it was through contact with Giorgione, who had also previously trained in Giovanni Bellini's workshop, that he mainly developed his early style. The Giorgionesque appearance of Titian's early work, which is characterised by a pastoral mood, is proof of their closeness. In 1508-9 they worked together on the decoration of the external walls of the Fondaco dei Tedeschi in Venice. The parts executed by Titian were greatly praised by contemporaries, much to the annoyance of Giorgione.\nAfter Giorgione's death in 1510, and Sebastiano del Piombo's departure to Rome in 1511, Titian launched his independent career in Venice. He was now left without rivals among his generation who could compete at his level.\nEarly local success\nIn 1511 Titian painted his celebrated frescoes in the Scuola del Santo in Padua. His style had now reached maturity, marked by fullness of forms, compositional confidence and chromatic balance. These features made his work fundamental to the development of Venetian and also European painting.\nHe became famous as a portraitist (examples in the National Gallery are La Schiavona and Portrait of Gerolamo (?) Barbarigo). He was also known as a painter of various profane subjects. These skills drew the attention of intellectually ambitious Italian dukes and aristocrats.\nTitian was also commissioned to paint prestigious public religious paintings. His Venetian success was sealed by the execution of the altarpiece for the high altar of the important Franciscan church of Santa Maria Gloriosa dei Frari in Venice. The so-called Assunta (Assumption of the Virgin Mary), which is nearly seven metres high, was displayed in 1518, creating a revolutionary watershed in Venetian altarpiece design.\nBetween 1519 and 1526, he painted the celebrated Pala Pesaro for the same church. This asymmetrical composition strongly influenced Venetian altarpiece painting right up until the 18th century.\nNorth Italian courts\nEarly in 1516 Titian started his professional relationship with Alfonso I d'Este, Duke of Ferrara and spent time in Alfonso's castle. The duke wanted to create a private cabinet, which would be known as the camerino d'alabastro (the alabaster cabinet), with mythological scenes derived from classical poetry.\nThe duke employed the painters he considered to be the best at the time. Apart from Titian, the other artists were Raphael, Fra Bartolomeo and Dosso Dossi. Following the deaths of Raphael and Fra Bartolomeo Titian's involvement in the project increased. He then executed his two famous Bacchanals for Alfonso I, today in the Prado, Madrid, along with Bacchus and Ariadne, now in the National Gallery.\nTitian also worked for the court of Mantua. In 1523 he began painting for the future Duke of Mantua, Federico II Gonzaga the son of Isabella d'Este (who was the sister of Titian's earlier patron Alfonso I). Titian mainly painted portraits for the Mantuan court.\nIn 1532 Titian started to work for the Duke of Urbino, Francesco Maria della Rovere. He would also work for his successor, Guidobaldo II. In the 1530s, he was also in touch with the court of Pope Paolo III Farnese.\nWorldwide success, family and friends\nThe 1520s were hugely significant for Titian's private life. In 1525 he married Cecilia (who tragically died in 1530). Titian and Cecilia had three children, who were all given the names of famous figures from ancient Rome: Pompeo, Orazio and Lavinia.\nTitian's meeting with the Holy Roman Emperor Charles V in Bologna in 1530 would be a determining event in his life. On this occasion Titian executed a (now lost) full-length, life-size portrait of the Emperor - an early example of what was still an extremely innovative genre at that time.\nHe rapidly became the principal painter to the imperial court, which gave him immense privileges, honours and even titles. From this moment he was the painter most in demand at courts across Europe. Titian also became the official painter of Charles V's son, Philip II of Spain. Starting in about 1551, he painted the celebrated mythological series of pictures for Philip, which he referred to as poesie. The 'poesie' included Diana and Actaeon and Diana and Callisto, which are now part of the National Gallery's collection, along with The Death of Actaeon, which was originally conceived as part of the series, but in fact remained unfinished in the artist's studio at his death.\nIn 1527 the Florentine sculptor and architect Jacopo Sansovino and the Tuscan man of letters Pietro Aretino arrived in Venice. They became inseparable friends with Titian, stimulating his interest in Mannerism, a style first seen in his paintings from that period. Mannerist aspects in his art increased after his only trip to Rome in 1545-6, where he finally got the opportunity to meet Michelangelo.\nLate years\nThe last phase of Titian's life coincided with a radical revision of his own style and painting technique. Starting from the late 1550s, Titian developed a much freer use of the brush and a less descriptive representation of reality.\nIn the late 1560s and early 1570s, when Titian was already extremely old, he pushed his art to the edge of abstraction. This later style has been defined as magic impressionism. All of this is well represented by two of his latest works, The Death of Actaeon at the National Gallery, and the Pietà, now in the Gallerie dell'Accademia in Venice.\nThe Pietà was originally destined for his own tomb in the church of Santa Maria Gloriosa dei Frari, where Titian was buried after dying of the plague on 27 August 1576.",
 	"viewingDirection": "left-to-right",
 	"viewingHint": "individuals",
-	"sequences": [
-		{
-			"@id": "https://media.ng-london.org.uk/public/manifests/sequence/normal.json",
-			"@type": "sc:Sequence",
-			"label": "Normal Order",
-			"canvases": [
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VY-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "Diana and Callisto",
-					"height": 737,
-					"width": 800,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-01VY-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 737,
-								"width": 800,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-01VY-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VY-0000/normal.json"
+	"sequences": [{
+		"@id": "https://media.ng-london.org.uk/public/manifests/sequence/normal.json",
+		"@type": "sc:Sequence",
+		"label": "Normal Order",
+		"canvases": [{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VY-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "Diana and Callisto",
+				"height": 737,
+				"width": 800,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-01VY-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 737,
+						"width": 800,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-01VY-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions ",
-							"value": "187 x 204.5 cm"
-						},
-						{
-							"label": "Year",
-							"value": "1556 - 9"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG6616"
-						},
-						{
-							"label": "Description",
-							"value": "The nymph Callisto was the favourite of Diana, virgin goddess of the hunt. Jupiter, king of the gods, noticed her beauty and disguised himself to seduce her. Titian has painted the moment Diana forces Callisto to strip and bathe after hunting and discovers her pregnancy. The drama is heightened by Titian’s free and expressive brushwork. The contours of the figures dissolve as the thinnest of dragged brushstrokes are swept over the surface of the canvas, contributing to the sense of dynamism and movement.
-
-Titian painted Diana and Callisto and Diana and Actaeon (co-owned by the National Gallery and the National Galleries of Scotland) for his most powerful patron, King Philip II of Spain, between 1556 and 1559. The pictures, based on the Roman poet Ovid’s Metamorphoses, were designed to be displayed together and have remained together throughout their history. The stream runs from one painting to the other and elements and poses are echoed, creating a rhythm across both canvases."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bought jointly by the National Gallery and National Galleries of Scotland with contributions from the National Lottery through the Heritage Lottery Fund, the Art Fund (with a contribution from the Wolfson Foundation), The Monument Trust, J Paul Getty Jnr Charitable Trust, Mr and Mrs James Kirkman, Sarah and David Kowitz, Chris Rokos, The Rothschild Foundation, Sir Siegmund Warburg's Voluntary Settlement, and through private appeal and bequests, 2012. "
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG6616"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VY-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions ",
+						"value": "187 x 204.5 cm"
+					},
+					{
+						"label": "Year",
+						"value": "1556 - 9"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG6616"
+					},
+					{
+						"label": "Description",
+						"value": "The nymph Callisto was the favourite of Diana, virgin goddess of the hunt. Jupiter, king of the gods, noticed her beauty and disguised himself to seduce her. Titian has painted the moment Diana forces Callisto to strip and bathe after hunting and discovers her pregnancy. The drama is heightened by Titian’s free and expressive brushwork. The contours of the figures dissolve as the thinnest of dragged brushstrokes are swept over the surface of the canvas, contributing to the sense of dynamism and movement. Titian painted Diana and Callisto and Diana and Actaeon(co - owned by the National Gallery and the National Galleries of Scotland) for his most powerful patron, King Philip II of Spain, between 1556 and 1559. The pictures, based on the Roman poet Ovid’ s Metamorphoses, were designed to be displayed together and have remained together throughout their history.The stream runs from one painting to the other and elements and poses are echoed, creating a rhythm across both canvases."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bought jointly by the National Gallery and National Galleries of Scotland with contributions from the National Lottery through the Heritage Lottery Fund, the Art Fund (with a contribution from the Wolfson Foundation), The Monument Trust, J Paul Getty Jnr Charitable Trust, Mr and Mrs James Kirkman, Sarah and David Kowitz, Chris Rokos, The Rothschild Foundation, Sir Siegmund Warburg's Voluntary Settlement, and through private appeal and bequests, 2012. "
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG6616"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VU-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "The Death of Actaeon",
+				"height": 719,
+				"width": 800,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-01VU-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 719,
+						"width": 800,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-01VU-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VU-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "The Death of Actaeon",
-					"height": 719,
-					"width": 800,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-01VU-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 719,
-								"width": 800,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-01VU-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VU-0000/normal.json"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01VU-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "178.8 x 197.8 cm"
+					},
+					{
+						"label": "Year",
+						"value": "1559 - 75"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG6420"
+					},
+					{
+						"label": "Description",
+						"value": "The story of Actaeon is told in the Metamorphoses by the Roman poet Ovid. In Titian’s earlier Diana surprised by Actaeon, painted for King Philip II of Spain in 1556–9 and now jointly owned by the National Gallery and the National Galleries of Scotland, Actaeon disturbs the goddess Diana and her nymphs at a secret bathing place. Although never delivered to Philip, The Death of Actaeon is clearly its sequel: Actaeon flees and, stopping to drink at a stream, discovers from his reflection that Diana has turned him into a stag.Titian shows Actaeon in the process of transformation.At Diana’ s order he is torn to death by his own hounds.The subject is rare in Italian art and Titian may never have seen another painting of it. While conceived around 1559, The Death of Actaeon was mostly painted when Titian was in his mid - eighties.It may not be entirely finished and could be one of the pictures left in his studio at the time of his death."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": " Bought with a special grant and contributions from The Art Fund, The Pilgrim Trust and through public appeal, 1972. "
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG6420"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01O0-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "An Allegory of Prudence",
+				"height": 800,
+				"width": 716,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-01O0-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 716,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-01O0-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "178.8 x 197.8 cm"
-						},
-						{
-							"label": "Year",
-							"value": "1559 - 75"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG6420"
-						},
-							{
-							"label": "Description",
-							"value": "The story of Actaeon is told in the Metamorphoses by the Roman poet Ovid. In Titian’s earlier Diana surprised by Actaeon, painted for King Philip II of Spain in 1556–9 and now jointly owned by the National Gallery and the National Galleries of Scotland, Actaeon disturbs the goddess Diana and her nymphs at a secret bathing place.
-
-Although never delivered to Philip, The Death of Actaeon is clearly its sequel: Actaeon flees and, stopping to drink at a stream, discovers from his reflection that Diana has turned him into a stag. Titian shows Actaeon in the process of transformation. At Diana’s order he is torn to death by his own hounds. The subject is rare in Italian art and Titian may never have seen another painting of it.
-
-While conceived around 1559, The Death of Actaeon was mostly painted when Titian was in his mid-eighties. It may not be entirely finished and could be one of the pictures left in his studio at the time of his death."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": " Bought with a special grant and contributions from The Art Fund, The Pilgrim Trust and through public appeal, 1972. "
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG6420"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01O0-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "75.5 x 68.4 cm"
+					},
+					{
+						"label": "Year",
+						"value": "1550-65"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG6376"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "Three male heads at different stages of life are paired with the heads of three animals: a wolf, a lion and a dog. The Latin inscription divided to correspond to the three heads translates as: ‘Learning from Yesterday, Today acts prudently lest by his action he spoil Tomorrow.’ The meaning and purpose of this painting has been the subject of much debate. The painting may be an allegory of Prudence.However, the composition was extensively revised during painting.The animal heads were added at a late stage and are fairly summarily executed.The execution of the heads, similarly, is of varied finish and quality, with the central one being the most subtle and vibrant. Some observers have seen the intervention of a studio assistant, especially in the head at the right and the animals.Such variety of finish is not unusual for Titian himself, however, and it is hard to imagine why he would have called upon assistants for such an unusual and comparatively simple composition."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Presented by Betty and David Koetser, 1966. "
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG6376"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00WJ-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "Portrait of a Lady ('La Schiavona')",
+				"height": 800,
+				"width": 676,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-00WJ-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 676,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-00WJ-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01O0-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "An Allegory of Prudence",
-					"height": 800,
-					"width": 716,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-01O0-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 716,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-01O0-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01O0-0000/normal.json"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00WJ-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "119.4 x 96.5 cm"
+					},
+					{
+						"label": "Year",
+						"value": " about 1510-12"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG5385"
+					},
+					{
+						"label": "Description",
+						"value": "Titian painted this picture when he was in his early twenties, at a time when private portraits of individual women were still rare. We don‘t know the identity of the sitter, if indeed this is a portrait in the traditional sense, rather than a general picture of a woman designed to encourage such commissions. The title La Schiavona, meaning ’the Dalmatian woman‘, was given to the picture in the seventeenth century. ’La Schiavona‘ is self - possessed and has a commanding gaze unlike any woman in an earlier European portrait.Titian’ s approach is original not only because the painting is three - quarter length and apparently life - sized but also because it was painted to make an impact from a distance. The profile bust portrait, inspired by ancient Roman sculpture and cameos, appears to represent the sitter herself but may commemorate a member of her family.It may relate to the contemporary debate about the rival merits of painting and sculpture.The letters’ T.V.' inscribed on the parapet stand for Tiziano Veccellio (Titian)."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Presented through The Art Fund by Sir Francis Cook, Bt., in memory of his father, Sir Herbert Cook, Bt., 1942"
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG5385"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00EL-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "The Vendramin Family, venerating a Relic of the True Cross",
+				"height": 565,
+				"width": 800,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-00EL-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 565,
+						"width": 800,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-00EL-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "75.5 x 68.4 cm"
-						},
-						{
-							"label": "Year",
-							"value": "1550-65"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG6376"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "Three male heads at different stages of life are paired with the heads of three animals: a wolf, a lion and a dog. The Latin inscription divided to correspond to the three heads translates as: ‘Learning from Yesterday, Today acts prudently lest by his action he spoil Tomorrow.’ The meaning and purpose of this painting has been the subject of much debate.
-
-The painting may be an allegory of Prudence. However, the composition was extensively revised during painting. The animal heads were added at a late stage and are fairly summarily executed. The execution of the heads, similarly, is of varied finish and quality, with the central one being the most subtle and vibrant.
-
-Some observers have seen the intervention of a studio assistant, especially in the head at the right and the animals. Such variety of finish is not unusual for Titian himself, however, and it is hard to imagine why he would have called upon assistants for such an unusual and comparatively simple composition."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Presented by Betty and David Koetser, 1966. "
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG6376"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00EL-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "206.1 x 288.5 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1540-45"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG4452"
+					},
+					{
+						"label": "Description",
+						"value": "This is Titian’s largest group portrait. The man in a red robe is probably Gabriel Vendramin (1484–1552). The man holding the altar may be Gabriel’s brother, Andrea Vendramin (1481–1547), and the boys are his seven sons. On the altar is a reliquary of the True Cross that their great-great-grandfather, an earlier Andrea Vendramin, had received on behalf of the Scuola Grande di S. Giovanni Evangelista in 1369. The relic was the confraternity’s greatest treasure and of great importance to the Vendramin. The portrait was made for a specific place in the family’ s Venetian palace, most likely the central hall.During painting, it was cut down on the left, probably because the patron changed the intended location.The three boys on the far left and two boys on the far right were late additions, possibly painted by an assistant."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bought with a special grant and contributions from Samuel Courtauld, Sir Joseph Duveen, The Art Fund and the Phillips Fund, 1929. "
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG4452"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01LE-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "Portrait of Girolamo Fracastoro",
+				"height": 800,
+				"width": 703,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-01LE-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 703,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-01LE-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00WJ-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "Portrait of a Lady ('La Schiavona')",
-					"height": 800,
-					"width": 676,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-00WJ-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 676,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-00WJ-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00WJ-0000/normal.json"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01LE-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "84 x 73.5 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1528"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG3949"
+					},
+					{
+						"label": "Description",
+						"value": "Girolamo Fracastoro (1476/8–1553), a celebrated medical doctor, as well as an astronomer, mathematician and poet, proposed the theory of contagion and in 1530 wrote an epic poem that gave the name ’syphilis' to the virulent, sexually transmitted disease that was ravaging Italy in that period. Although the painting is damaged and most of the modelling of the black parts of the coat has been lost, Titian’ s touch seems especially apparent in the painting of the lynx fur collar. The thick broken brushstrokes down the brightly lit left edge of the fur remain remarkably fresh, as do the fine lines scratched into the white paint of the fur tufts trapped in the seams of the sleeve. The sitter’ s dynamic pose, turning to look at us over his shoulder with his arm resting on a parapet, is reminiscent of Titian’ s Portrait of Gerolamo( ? ) Barbarigo of about 1510, also in the National Gallery."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Mond Bequest, 1924."
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG3949"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00GQ-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "The Virgin suckling the Infant Christ. about 1565-75. Oil on canvas, 76.2 x 63.5 cm. Mond Bequest, 1924. NG3948. https://www.nationalgallery.org.uk/paintings/NG3948",
+				"height": 800,
+				"width": 670,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-00GQ-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 670,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-00GQ-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "119.4 x 96.5 cm"
-						},
-						{
-							"label": "Year",
-							"value": " about 1510-12"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG5385"
-						},
-						{
-							"label": "Description",
-							"value": "Titian painted this picture when he was in his early twenties, at a time when private portraits of individual women were still rare. We don‘t know the identity of the sitter, if indeed this is a portrait in the traditional sense, rather than a general picture of a woman designed to encourage such commissions. The title La Schiavona, meaning ’the Dalmatian woman‘, was given to the picture in the seventeenth century.
-
-’La Schiavona‘ is self-possessed and has a commanding gaze unlike any woman in an earlier European portrait. Titian’s approach is original not only because the painting is three-quarter length and apparently life-sized but also because it was painted to make an impact from a distance.
-
-The profile bust portrait, inspired by ancient Roman sculpture and cameos, appears to represent the sitter herself but may commemorate a member of her family. It may relate to the contemporary debate about the rival merits of painting and sculpture. The letters ’T.V.' inscribed on the parapet stand for Tiziano Veccellio (Titian)."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Presented through The Art Fund by Sir Francis Cook, Bt., in memory of his father, Sir Herbert Cook, Bt., 1942"
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG5385"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00GQ-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "76.2 x 63.5 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1565-75"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG3948"
+					},
+					{
+						"label": "Description",
+						"value": "The Virgin Mary gazes at the infant Christ who feeds from her breast. The naked child is encircled in his mother’s arms and twists away from us. Our eye is drawn from the Virgin’s delicate fingers, up the line of Christ’s back and to the expression of devotion on her face. Titian appears to be citing a very similar design by Michelangelo and does capture some of the grandeur and strength of his colleague’ s figures in the Christ Child’ s twisting pose and the Virgin’ s heroic build, but he simultaneously brings a painterly softness and tenderness to his picture.The silvery harmonies combine with tremulous brushwork to make the solid forms of the Virgin and Child seem to dissolve into shimmering light. Titian may have kept this painting in his studio and worked on it during the last years of his life.The unblended brushstrokes and restrained colour scheme are typical of his very late works such as The Death of Actaeon in the National Gallery."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": " Mond Bequest, 1924."
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG3948"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-006Q-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "Portrait of Gerolamo (?) Barbarigo. ",
+				"height": 800,
+				"width": 659,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-006Q-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 659,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-006Q-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00EL-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "The Vendramin Family, venerating a Relic of the True Cross",
-					"height": 565,
-					"width": 800,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-00EL-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 565,
-								"width": 800,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-00EL-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00EL-0000/normal.json"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-006Q-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "81.2 x 66.3 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1510"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG1944"
+					},
+					{
+						"label": "Description",
+						"value": "In this, one of Titian’s earliest portraits, the sitter turns to look at us over his shoulder and momentarily meets our gaze. Our attention is focused on the raised brow above his right eye, which is positioned midway across the picture. The man’s elbow rests on a parapet and his voluminous quilted sleeve projects into our space, creating a strong sense of his physical presence. The way in which the shadowed portions of the figure merge with the grey atmospheric background was particularly innovative. This novel and effective pose was to become highly influential in European portraiture, perhaps most famously serving as a model for Rembrandt’s Self Portrait at the Age of 34, now also in the National Gallery. This was long believed to be a portrait of the celebrated Italian poet Ludovico Ariosto(1474– 1533), and then later thought to be a self portrait by Titian.However, the man is likely to be one of Titian’ s friends– a member of the aristocratic Barbarigo family"
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bought, 1904"
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG1944"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-011P-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "The Virgin and Child with the Infant Saint John and a Female Saint or Donor ('The Aldobrandini Madonna')",
+				"height": 562,
+				"width": 800,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-011P-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 562,
+						"width": 800,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-011P-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "206.1 x 288.5 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1540-45"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG4452"
-						},
-						{
-							"label": "Description",
-							"value": "This is Titian’s largest group portrait. The man in a red robe is probably Gabriel Vendramin (1484–1552). The man holding the altar may be Gabriel’s brother, Andrea Vendramin (1481–1547), and the boys are his seven sons. On the altar is a reliquary of the True Cross that their great-great-grandfather, an earlier Andrea Vendramin, had received on behalf of the Scuola Grande di S. Giovanni Evangelista in 1369. The relic was the confraternity’s greatest treasure and of great importance to the Vendramin.
-
-The portrait was made for a specific place in the family’s Venetian palace, most likely the central hall. During painting, it was cut down on the left, probably because the patron changed the intended location. The three boys on the far left and two boys on the far right were late additions, possibly painted by an assistant."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bought with a special grant and contributions from Samuel Courtauld, Sir Joseph Duveen, The Art Fund and the Phillips Fund, 1929. "
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG4452"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-011P-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "100.6 x 142.2 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1532"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG635 "
+					},
+					{
+						"label": "Description",
+						"value": "The Virgin and Child are accompanied by the young Saint John the Baptist and a kneeling woman, who cannot be clearly identified. She holds the infant Christ in her arms and gazes at him in adoration. It is not clear which, if any, New Testament episode is shown here.The shepherd and herdsman in the middle distance– and the angel in the sky– might allude to the Annunciation to the Shepherds(Luke 2: 8– 17) and suggest the birth of Christ.However, the presence of John the Baptist, who gives the Virgin fruit and flowers for his baby cousin, would be more appropriate to a Rest on the Flight into Egypt– but we would expect Saint Joseph to be included in such a scene. This must be a non - narrative picture intended for private devotion, combining selected elements from the life of Christ."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bought, 1860"
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG635"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00MB-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "Noli me Tangere",
+				"height": 800,
+				"width": 665,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-00MB-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 665,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-00MB-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01LE-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "Portrait of Girolamo Fracastoro",
-					"height": 800,
-					"width": 703,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-01LE-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 703,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-01LE-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01LE-0000/normal.json"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00MB-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "110.5 x 91.9 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1514"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG270"
+					},
+					{
+						"label": "Description",
+						"value": "Risen from the dead, Christ appears to his grieving follower, Mary Magdalene, in the Garden of Gethsemane. At first she mistakes him for a gardener but then reaches out her hand in wonder. Christ says, ‘Do not touch me’ (in Latin, noli me tangere); it is time for his followers to let go of his earthly presence and await the Holy Ghost (John 20: 14–18). This is one of the earliest works by Titian in the National Gallery’ s collection.Its high - key colours and the way the figures are set in a natural landscape echo the style of Giorgione, with whom Titian trained.The lines of the tree and the hillside draw attention to the look between the figures.Titian has suggested Christ’ s gauzy loincloth and Mary Magdalene’ s scarf with dragged brushstrokes of lead white that catch the texture of the painting’ s canvas."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bequeathed by Samuel Rogers, 1856"
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG270"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01FS-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "The Tribute Money",
+				"height": 800,
+				"width": 719,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-01FS-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 800,
+						"width": 719,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-01FS-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "84 x 73.5 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1528"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG3949"
-						},
-						{
-							"label": "Description",
-							"value": "Girolamo Fracastoro (1476/8–1553), a celebrated medical doctor, as well as an astronomer, mathematician and poet, proposed the theory of contagion and in 1530 wrote an epic poem that gave the name ’syphilis' to the virulent, sexually transmitted disease that was ravaging Italy in that period.
-
-Although the painting is damaged and most of the modelling of the black parts of the coat has been lost, Titian’s touch seems especially apparent in the painting of the lynx fur collar. The thick broken brushstrokes down the brightly lit left edge of the fur remain remarkably fresh, as do the fine lines scratched into the white paint of the fur tufts trapped in the seams of the sleeve.
-
-The sitter’s dynamic pose, turning to look at us over his shoulder with his arm resting on a parapet, is reminiscent of Titian’s Portrait of Gerolamo (?) Barbarigo of about 1510, also in the National Gallery."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Mond Bequest, 1924."
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG3949"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01FS-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "112.2 x 103.2 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1560-8 (perhaps begun in the 1540s)"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG224"
+					},
+					{
+						"label": "Description",
+						"value": "The Pharisees (chief priests) ask Christ whether it is right to pay tax to the Romans, who rule Palestine. Christ, sensing a trap, asks whose likeness and name are on the coinage: ‘They say unto him, Caesar’s. Then he saith unto them, render therefore unto Caesar the things that are Caesar’s; and unto God the things that are God’s’ (Matthew 22; Mark 12; Luke 20). It is almost certain that this is the painting that Titian described in October 1568 as one he had recently completed and sent to King Philip II of Spain.For 200 years it hung in the Sacristy of Philip’ s royal residence and monastery of El Escorial.The subject is rare in art.Titian may have been the first artist to represent it in his painting of about 1516 for Duke Alfonso d 'Este in Ferrara (now in the Gemäldegalerie, Dresden). That painting served as a cupboard door for the Duke’s collection of ancient coins and medals."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bought, 1852."
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG224"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00PH-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "Bacchus and Ariadne",
+				"height": 727,
+				"width": 800,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-00PH-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 727,
+						"width": 800,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-00PH-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00GQ-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "The Virgin suckling the Infant Christ. about 1565-75. Oil on canvas, 76.2 x 63.5 cm. Mond Bequest, 1924. NG3948. https://www.nationalgallery.org.uk/paintings/NG3948",
-					"height": 800,
-					"width": 670,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-00GQ-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 670,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-00GQ-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00GQ-0000/normal.json"
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00PH-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "176.5 x 191 cm"
+					},
+					{
+						"label": "Year",
+						"value": "1520-3"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on Canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG35"
+					},
+					{
+						"label": "Description",
+						"value": "One of the most famous paintings in the National Gallery, Titian’s Bacchus and Ariadne illustrates a story told by the classical authors Ovid and Catullus. The Cretan princess Ariadne has been abandoned on the Greek island of Naxos by Theseus, whose ship sails away in the distance. Bacchus, god of wine, falls in love at first sight with Ariadne and leaps from his chariot towards her. Later, Bacchus throws Ariadne’s crown into the air, immortalising her as the constellation Corona Borealis, represented by the stars above her head. This painting is one of a celebrated series by Giovanni Bellini, Titian and the Ferrarese artist Dosso Dossi, commissioned for the Camerino d‘ Alabastro(Alabaster Room) in the Ducal Palace, Ferrara, by Alfonso I d’Este, Duke of Ferrara. All the pictures, completed from 1514 to 1525, are bacchanals– scenes of hedonism, drinking, music making and lovemaking.Titian shows off his great skill as a colourist, combining in this single picture all of the purest and most vibrant pigments available at that time."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Bought, 1826"
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG35"
+					}
+				]
+			},
+			{
+				"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01KV-0000/normal.json",
+				"@type": "sc:Canvas",
+				"label": "The Holy Family with a Shepherd",
+				"height": 585,
+				"width": 800,
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://media.ng-london.org.uk/iiif/009-01KV-0000/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 585,
+						"width": 800,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://media.ng-london.org.uk/iiif/009-01KV-0000",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "76.2 x 63.5 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1565-75"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG3948"
-						},
-						{
-							"label": "Description",
-							"value": "The Virgin Mary gazes at the infant Christ who feeds from her breast. The naked child is encircled in his mother’s arms and twists away from us. Our eye is drawn from the Virgin’s delicate fingers, up the line of Christ’s back and to the expression of devotion on her face.
-
-Titian appears to be citing a very similar design by Michelangelo and does capture some of the grandeur and strength of his colleague’s figures in the Christ Child’s twisting pose and the Virgin’s heroic build, but he simultaneously brings a painterly softness and tenderness to his picture. The silvery harmonies combine with tremulous brushwork to make the solid forms of the Virgin and Child seem to dissolve into shimmering light.
-
-Titian may have kept this painting in his studio and worked on it during the last years of his life. The unblended brushstrokes and restrained colour scheme are typical of his very late works such as The Death of Actaeon in the National Gallery."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": " Mond Bequest, 1924."
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG3948"
-						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-006Q-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "Portrait of Gerolamo (?) Barbarigo. ",
-					"height": 800,
-					"width": 659,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-006Q-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 659,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-006Q-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-006Q-0000/normal.json"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "81.2 x 66.3 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1510"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG1944"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "In this, one of Titian’s earliest portraits, the sitter turns to look at us over his shoulder and momentarily meets our gaze. Our attention is focused on the raised brow above his right eye, which is positioned midway across the picture. The man’s elbow rests on a parapet and his voluminous quilted sleeve projects into our space, creating a strong sense of his physical presence. The way in which the shadowed portions of the figure merge with the grey atmospheric background was particularly innovative. This novel and effective pose was to become highly influential in European portraiture, perhaps most famously serving as a model for Rembrandt’s Self Portrait at the Age of 34, now also in the National Gallery.
-
-This was long believed to be a portrait of the celebrated Italian poet Ludovico Ariosto (1474–1533), and then later thought to be a self portrait by Titian. However, the man is likely to be one of Titian’s friends – a member of the aristocratic Barbarigo family."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bought, 1904"
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG1944"
-						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-011P-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "The Virgin and Child with the Infant Saint John and a Female Saint or Donor ('The Aldobrandini Madonna')",
-					"height": 562,
-					"width": 800,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-011P-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 562,
-								"width": 800,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-011P-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-011P-0000/normal.json"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "100.6 x 142.2 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1532"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG635 "
-						},
-						{
-							"label": "Description",
-							"value": "The Virgin and Child are accompanied by the young Saint John the Baptist and a kneeling woman, who cannot be clearly identified. She holds the infant Christ in her arms and gazes at him in adoration.
-
-It is not clear which, if any, New Testament episode is shown here. The shepherd and herdsman in the middle distance – and the angel in the sky – might allude to the Annunciation to the Shepherds (Luke 2: 8–17) and suggest the birth of Christ. However, the presence of John the Baptist, who gives the Virgin fruit and flowers for his baby cousin, would be more appropriate to a Rest on the Flight into Egypt – but we would expect Saint Joseph to be included in such a scene.
-
-This must be a non-narrative picture intended for private devotion, combining selected elements from the life of Christ."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bought, 1860"
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG635"
-						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00MB-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "Noli me Tangere",
-					"height": 800,
-					"width": 665,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-00MB-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 665,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-00MB-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00MB-0000/normal.json"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "110.5 x 91.9 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1514"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG270"
-						},
-						{
-							"label": "Reference Number",
-							"value": "Risen from the dead, Christ appears to his grieving follower, Mary Magdalene, in the Garden of Gethsemane. At first she mistakes him for a gardener but then reaches out her hand in wonder. Christ says, ‘Do not touch me’ (in Latin, noli me tangere); it is time for his followers to let go of his earthly presence and await the Holy Ghost (John 20: 14–18).
-
-This is one of the earliest works by Titian in the National Gallery’s collection. Its high-key colours and the way the figures are set in a natural landscape echo the style of Giorgione, with whom Titian trained. The lines of the tree and the hillside draw attention to the look between the figures. Titian has suggested Christ’s gauzy loincloth and Mary Magdalene’s scarf with dragged brushstrokes of lead white that catch the texture of the painting’s canvas."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bequeathed by Samuel Rogers, 1856"
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG270"
-						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01FS-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "The Tribute Money",
-					"height": 800,
-					"width": 719,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-01FS-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 800,
-								"width": 719,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-01FS-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01FS-0000/normal.json"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "112.2 x 103.2 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1560-8 (perhaps begun in the 1540s)"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG224"
-						},
-							{
-							"label": "Description",
-							"value": "The Pharisees (chief priests) ask Christ whether it is right to pay tax to the Romans, who rule Palestine. Christ, sensing a trap, asks whose likeness and name are on the coinage: ‘They say unto him, Caesar’s. Then he saith unto them, render therefore unto Caesar the things that are Caesar’s; and unto God the things that are God’s’ (Matthew 22; Mark 12; Luke 20).
-
-It is almost certain that this is the painting that Titian described in October 1568 as one he had recently completed and sent to King Philip II of Spain. For 200 years it hung in the Sacristy of Philip’s royal residence and monastery of El Escorial. The subject is rare in art. Titian may have been the first artist to represent it in his painting of about 1516 for Duke Alfonso d'Este in Ferrara (now in the Gemäldegalerie, Dresden). That painting served as a cupboard door for the Duke’s collection of ancient coins and medals.
-
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bought, 1852."
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG224"
-						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00PH-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "Bacchus and Ariadne",
-					"height": 727,
-					"width": 800,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-00PH-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 727,
-								"width": 800,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-00PH-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-00PH-0000/normal.json"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "176.5 x 191 cm"
-						},
-						{
-							"label": "Year",
-							"value": "1520-3"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on Canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG35"
-						},
-						{
-							"label": "Description",
-							"value": "One of the most famous paintings in the National Gallery, Titian’s Bacchus and Ariadne illustrates a story told by the classical authors Ovid and Catullus. The Cretan princess Ariadne has been abandoned on the Greek island of Naxos by Theseus, whose ship sails away in the distance. Bacchus, god of wine, falls in love at first sight with Ariadne and leaps from his chariot towards her. Later, Bacchus throws Ariadne’s crown into the air, immortalising her as the constellation Corona Borealis, represented by the stars above her head.
-
-This painting is one of a celebrated series by Giovanni Bellini, Titian and the Ferrarese artist Dosso Dossi, commissioned for the Camerino d‘Alabastro (Alabaster Room) in the Ducal Palace, Ferrara, by Alfonso I d’Este, Duke of Ferrara. All the pictures, completed from 1514 to 1525, are bacchanals – scenes of hedonism, drinking, music making and lovemaking. Titian shows off his great skill as a colourist, combining in this single picture all of the purest and most vibrant pigments available at that time."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Bought, 1826"
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG35"
-						}
-					]
-				},
-				{
-					"@id": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01KV-0000/normal.json",
-					"@type": "sc:Canvas",
-					"label": "The Holy Family with a Shepherd",
-					"height": 585,
-					"width": 800,
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://media.ng-london.org.uk/iiif/009-01KV-0000/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 585,
-								"width": 800,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://media.ng-london.org.uk/iiif/009-01KV-0000",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							},
-							"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01KV-0000/normal.json"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Dimensions",
-							"value": "99.1 x 139.1 cm"
-						},
-						{
-							"label": "Year",
-							"value": "about 1510"
-						},
-						{
-							"label": "Materials",
-							"value": "Oil on canvas"
-						},
-						{
-							"label": "Inventory Number",
-							"value": "NG4"
-						},
-						{
-							"label": "Reference Number",
-							"value": "This is one of Titian’s earliest surviving works. It shows the Adoration of the Shepherds – the flying angel in the distance announces Christ’s birth to them. Saint Joseph presents the infant Christ to a young shepherd, who kneels in reverence.
-
-It is unusual to find only one shepherd in attendance. The reason for this may be that Titian wished to emphasise the importance of Saint Joseph by making him central to the composition both in terms of action and position. The painting was probably made for a patron who was especially devoted to Saint Joseph, whose cult was strongly promoted in north Italy at this date. It was probably painted for a domestic setting.
-
-Titian’s lack of training in drawing the figure is clear from the size of Saint Joseph’s head in relation to his torso. None of the figures are convincingly articulated, again suggesting that this is a very early work."
-						},
-						{
-							"label": "Acquisition Details",
-							"value": "Holwell Carr Bequest, 1831."
-						},
-						{
-							"label": "Website",
-							"value": "https://www.nationalgallery.org.uk/paintings/NG4"
-						}
-					]
-				}
-			]
-		}
-	]
+					},
+					"on": "https://media.ng-london.org.uk/public/manifests/sequence/srv/009-01KV-0000/normal.json"
+				}],
+				"metadata": [{
+						"label": "Dimensions",
+						"value": "99.1 x 139.1 cm"
+					},
+					{
+						"label": "Year",
+						"value": "about 1510"
+					},
+					{
+						"label": "Materials",
+						"value": "Oil on canvas"
+					},
+					{
+						"label": "Inventory Number",
+						"value": "NG4"
+					},
+					{
+						"label": "Description",
+						"value": "This is one of Titian’s earliest surviving works. It shows the Adoration of the Shepherds – the flying angel in the distance announces Christ’s birth to them. Saint Joseph presents the infant Christ to a young shepherd, who kneels in reverence. It is unusual to find only one shepherd in attendance.The reason for this may be that Titian wished to emphasise the importance of Saint Joseph by making him central to the composition both in terms of action and position. The painting was probably made for a patron who was especially devoted to Saint Joseph, whose cult was strongly promoted in north Italy at this date.It was probably painted for a domestic setting. Titian’ s lack of training in drawing the figure is clear from the size of Saint Joseph’ s head in relation to his torso.None of the figures are convincingly articulated, again suggesting that this is a very early work."
+					},
+					{
+						"label": "Acquisition Details",
+						"value": "Holwell Carr Bequest, 1831."
+					},
+					{
+						"label": "Website",
+						"value": "https://www.nationalgallery.org.uk/paintings/NG4"
+					}
+				]
+			}
+		]
+	}]
 }
